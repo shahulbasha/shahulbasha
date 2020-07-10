@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello from Shahul 👋
+
+I am a dev based out of Chennai. Tech and Travel are two things that keep me buzzing .  
+
+Very much a sports enthusiast and some clubs that i follow are CSK and Real Madrid.
+
+Reach me at shhl.basha333@gmail.com .
+
 
 <!--
 **shahulbasha/shahulbasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
