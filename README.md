@@ -1,6 +1,6 @@
 Hello from Shahul 👋
 
-I am a dev based out of Chennai. Tech and Travel are two things that keep me buzzing .  
+I am a dev based out of Chennai. Tech and Travel are two things that keep me going .  
 
 Very much a sports enthusiast and some clubs that i follow are CSK and Real Madrid.
 
