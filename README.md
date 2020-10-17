@@ -2,7 +2,7 @@ Hello from Shahul 👋
 
 I am a dev based out of Chennai. Tech and Travel are two things that keep me going .  
 
-Very much a sports enthusiast and some clubs that i follow are CSK and Real Madrid.
+Very much a sports enthusiast and some clubs that i follow are Real Madrid and CSK.
 
 Reach me at shhl.basha333@gmail.com .
 
